@@ -1,0 +1,21 @@
+# 👋 Olá, eu sou o Ítalo!
+
+💻 Analista CLoud e Admin SalesForce 
+☁️ Explorando arquitetura em nuvem (AWS)  
+🚀 Sempre evoluindo 
+
+---
+
+# 🌐 Redes Sociais
+[![LinkedIn](https://www.linkedin.com/in/italo-calabria/?skipRedirect=true)
+---
+
+# ⚡ Tech Stack
+! AWS
+! GCP
+! AZURE
+! SalesForce
+! Python
+! JavaScript
+
+---
