@@ -7,7 +7,7 @@
 ---
 
 # 🌐 Redes Sociais
-[![LinkedIn](https://www.linkedin.com/in/italo-calabria/)
+(https://www.linkedin.com/in/italo-calabria/)
 ---
 
 # ⚡ Tech Stack
