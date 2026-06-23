@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ítalo!
+#  Olá, eu sou o Ítalo!
 
 💻 Analista CLoud e Admin SalesForce 
 ☁️ Explorando arquitetura em nuvem (AWS)  
