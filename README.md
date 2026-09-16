@@ -13,8 +13,6 @@
 # ⚡ Tech Stack
 ! AWS
 ! GCP
-! AZURE
-! SalesForce
 ! Python
 ! JavaScript
 ! SQL
