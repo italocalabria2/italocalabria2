@@ -1,6 +1,6 @@
 #  Olá, eu sou o Ítalo!
 
-💻 Analista CLoud e Admin SalesForce 
+💻 Confira meus Projetos, também estou aberto para conversas! Chama no linkedin 
 
 
 
